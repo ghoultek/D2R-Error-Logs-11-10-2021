@@ -1,0 +1,249 @@
+lutris-wrapper: Diablo III
+Running gamemoderun /home/jqpdevkde/.local/share/lutris/runners/wine/lutris-ge-6.19-1-x86_64/bin/wine /data/LinuxGaming/Lutris/diablo-iii/drive_c/Program Files (x86)/Battle.net/Battle.net Launcher.exe
+Initial process has started with pid 3493
+Start monitoring process.
+gamemodeauto: 
+esync: up and running.
+002c:fixme:winediag:LdrInitializeThunk wine-staging 6.19 is a testing version containing experimental patches.
+002c:fixme:winediag:LdrInitializeThunk Please mention your exact version when filing bug reports on winehq.org.
+00fc:fixme:kernelbase:AppPolicyGetProcessTerminationMethod FFFFFFFA, 0063FEAC
+Initial process has exited (return code: 0)
+0104:fixme:cryptasn:CRYPT_GetBuiltinDecoder Unsupported decoder for lpszStructType 1.3.6.1.4.1.311.2.1.4
+0104:fixme:cryptasn:CRYPT_GetBuiltinDecoder Unsupported decoder for lpszStructType 1.3.6.1.4.1.311.2.1.4
+0104:err:kerberos:kerberos_LsaApInitializePackage no Kerberos support, expect problems
+0104:fixme:advapi:OpenEventLogW ((null),L"System") stub
+0104:fixme:advapi:ReadEventLogA (CAFE4242,0x00000009,0x00000000,0ABE0020,0x00010000,0070E6E0,0070E6E4) stub
+0104:fixme:advapi:CloseEventLog (CAFE4242) stub
+0104:fixme:font:NtGdiRemoveFontMemResourceEx (0xfac8a201) stub
+0104:fixme:font:NtGdiRemoveFontMemResourceEx (0xfaca0471) stub
+0104:fixme:font:NtGdiRemoveFontMemResourceEx (0xfad72051) stub
+0104:fixme:font:NtGdiRemoveFontMemResourceEx (0x7051e331) stub
+0104:fixme:font:NtGdiRemoveFontMemResourceEx (0x706ec331) stub
+0104:fixme:font:NtGdiRemoveFontMemResourceEx (0x70611331) stub
+0104:fixme:font:NtGdiRemoveFontMemResourceEx (0x71981331) stub
+0104:fixme:font:NtGdiRemoveFontMemResourceEx (0xfad68a51) stub
+0104:fixme:font:NtGdiRemoveFontMemResourceEx (0xfad033b1) stub
+0104:fixme:font:find_matching_face Untranslated charset 255
+0104:fixme:font:get_nearest_charset returning DEFAULT_CHARSET face->fs.fsCsb[0] = 00000000 file = L"\\??\\Z:\\usr\\share\\fonts\\droid\\DroidSansArabic.ttf"
+0104:fixme:font:find_matching_face Untranslated charset 255
+0104:fixme:font:get_nearest_charset returning DEFAULT_CHARSET face->fs.fsCsb[0] = 00000000 file = L"\\??\\Z:\\usr\\share\\fonts\\TTF\\MuktiNarrow.ttf"
+0104:fixme:font:find_matching_face Untranslated charset 255
+0104:fixme:font:get_nearest_charset returning DEFAULT_CHARSET face->fs.fsCsb[0] = 00000000 file = L"\\??\\Z:\\usr\\share\\fonts\\TTF\\MuktiNarrowBold.ttf"
+0104:fixme:font:find_matching_face Untranslated charset 255
+0104:fixme:font:get_nearest_charset returning DEFAULT_CHARSET face->fs.fsCsb[0] = 00000000 file = L"\\??\\Z:\\usr\\share\\fonts\\noto\\NotoKufiArabic-Regular.ttf"
+0104:fixme:font:find_matching_face Untranslated charset 255
+0104:fixme:font:get_nearest_charset returning DEFAULT_CHARSET face->fs.fsCsb[0] = 00000000 file = L"\\??\\Z:\\usr\\share\\fonts\\noto\\NotoKufiArabic-Bold.ttf"
+0104:fixme:font:find_matching_face Untranslated charset 255
+0104:fixme:font:get_nearest_charset returning DEFAULT_CHARSET face->fs.fsCsb[0] = 00000000 file = L"\\??\\Z:\\usr\\share\\fonts\\noto\\NotoKufiArabic-Black.ttf"
+0104:fixme:font:find_matching_face Untranslated charset 255
+0104:fixme:font:get_nearest_charset returning DEFAULT_CHARSET face->fs.fsCsb[0] = 00000000 file = L"\\??\\Z:\\usr\\share\\fonts\\noto\\NotoKufiArabic-Light.ttf"
+0104:fixme:font:find_matching_face Untranslated charset 255
+0104:fixme:font:get_nearest_charset returning DEFAULT_CHARSET face->fs.fsCsb[0] = 00000000 file = L"\\??\\Z:\\usr\\share\\fonts\\noto\\NotoKufiArabic-Medium.ttf"
+0104:fixme:font:find_matching_face Untranslated charset 255
+0104:fixme:font:get_nearest_charset returning DEFAULT_CHARSET face->fs.fsCsb[0] = 00000000 file = L"\\??\\Z:\\usr\\share\\fonts\\noto\\NotoKufiArabic-Thin.ttf"
+0104:fixme:font:find_matching_face Untranslated charset 255
+0104:fixme:font:get_nearest_charset returning DEFAULT_CHARSET face->fs.fsCsb[0] = 00000000 file = L"\\??\\Z:\\usr\\share\\fonts\\TTF\\NotoSansMono-Black-Nerd-Font-Complete.ttf"
+0104:fixme:font:find_matching_face Untranslated charset 255
+0104:fixme:font:get_nearest_charset returning DEFAULT_CHARSET face->fs.fsCsb[0] = 00000000 file = L"\\??\\Z:\\usr\\share\\fonts\\TTF\\NotoSansMono-Black-Nerd-Font-Complete.ttf"
+0104:fixme:font:find_matching_face Untranslated charset 255
+0104:fixme:font:get_nearest_charset returning DEFAULT_CHARSET face->fs.fsCsb[0] = 00000000 file = L"\\??\\Z:\\usr\\share\\fonts\\TTF\\NotoSansMono-Black-Nerd-Font-Complete.ttf"
+0104:fixme:font:find_matching_face Untranslated charset 255
+0104:fixme:font:get_nearest_charset returning DEFAULT_CHARSET face->fs.fsCsb[0] = 00000000 file = L"\\??\\Z:\\usr\\share\\fonts\\TTF\\NotoSansMono-Black-Nerd-Font-Complete.ttf"
+0104:fixme:font:find_matching_face Untranslated charset 255
+0104:fixme:font:get_nearest_charset returning DEFAULT_CHARSET face->fs.fsCsb[0] = 00000000 file = L"\\??\\Z:\\usr\\share\\fonts\\TTF\\NotoSansMono-Bold-Nerd-Font-Complete.ttf"
+0104:fixme:font:find_matching_face Untranslated charset 255
+0104:fixme:font:get_nearest_charset returning DEFAULT_CHARSET face->fs.fsCsb[0] = 00000000 file = L"\\??\\Z:\\usr\\share\\fonts\\TTF\\Pothana2000.ttf"
+0104:fixme:font:find_matching_face Untranslated charset 255
+0104:fixme:font:get_nearest_charset returning DEFAULT_CHARSET face->fs.fsCsb[0] = 00000000 file = L"\\??\\Z:\\usr\\share\\fonts\\TTF\\Sampige.ttf"
+0104:fixme:file:NtLockFile I/O completion on lock not implemented yet
+0124:fixme:cryptasn:CRYPT_GetBuiltinDecoder Unsupported decoder for lpszStructType 1.3.6.1.4.1.311.2.1.4
+0124:fixme:cryptasn:CRYPT_GetBuiltinDecoder Unsupported decoder for lpszStructType 1.3.6.1.4.1.311.2.1.4
+0138:err:ole:com_get_class_object apartment not initialised
+0138:fixme:kernelbase:AppPolicyGetProcessTerminationMethod FFFFFFFA, 0069FEAC
+0140:fixme:wbemprox:wbem_locator_ConnectServer unsupported flags
+0140:fixme:wbemprox:client_security_SetBlanket 62EA4790, 00D86AB0, 10, 0, (null), 3, 3, 00000000, 0x00000000
+0140:fixme:wbemprox:client_security_Release 62EA4790
+0140:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+0140:fixme:wbemprox:enum_class_object_Next timeout not supported
+0150:fixme:kernelbase:AppPolicyGetThreadInitializationType FFFFFFFA, 0398FEF8
+0140:err:kerberos:kerberos_LsaApInitializePackage no Kerberos support, expect problems
+0104:fixme:wbemprox:wbem_locator_ConnectServer unsupported flags
+0104:fixme:wbemprox:client_security_SetBlanket 0E204790, 121AFF90, 10, 0, (null), 3, 3, 00000000, 0x00000000
+0104:fixme:wbemprox:client_security_Release 0E204790
+0104:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+0104:fixme:wbemprox:enum_class_object_Next timeout not supported
+0104:fixme:heap:RtlSetHeapInformation unimplemented HeapEnableTerminationOnCorruption
+0104:fixme:nls:RtlGetThreadPreferredUILanguages 00000038, 0070EAEC, 00000000 0070EAE8
+0104:fixme:nls:get_dummy_preferred_ui_language (0x38 0070EAEC 00000000 0070EAE8) returning a dummy value (current locale)
+0104:fixme:nls:RtlGetThreadPreferredUILanguages 00000038, 0070EAEC, 09DBD070 0070EAE8
+0104:fixme:nls:get_dummy_preferred_ui_language (0x38 0070EAEC 09DBD070 0070EAE8) returning a dummy value (current locale)
+0104:fixme:winsock:WSALookupServiceBeginW (0070E88C 0x00000ff0 0070E8C8) Stub!
+0104:fixme:iphlpapi:NotifyAddrChange (Handle 0070EA08, overlapped 09DF5A98): stub
+0104:fixme:userenv:RegisterGPNotification 000003C8 0
+0104:fixme:userenv:RegisterGPNotification 000003CC 1
+0104:fixme:shcore:IsOS (OS_DOMAINMEMBER) What should we return here?
+01f4:fixme:wtsapi:WTSRegisterSessionNotification Stub 00010086 0x00000001
+0104:fixme:service:I_ScRegisterDeviceNotification Notification filters are not yet implemented.
+0104:fixme:win:GetPointerDevices (0070E60C 00000000): partial stub
+0104:fixme:system:GetDisplayConfigBufferSizes (0x2 0070E60C 0070E608): semi-stub
+0104:fixme:system:DisplayConfigGetDeviceInfo Unimplemented packet type: 11
+0104:fixme:combase:RoActivateInstance (12113230, 0070E554): semi-stub
+0104:fixme:combase:RoGetActivationFactory (L"Windows.UI.ViewManagement.UISettings", {00000035-0000-0000-c000-000000000046}, 0070E45C): semi-stub
+0104:err:combase:RoGetActivationFactory Failed to find library for L"Windows.UI.ViewManagement.UISettings"
+0140:fixme:ole:CoInitializeSecurity 00000000, -1, 00000000, 00000000, 0, 3, 00000000, 0, 00000000 stub
+0140:fixme:wbemprox:client_security_SetBlanket 62EA4790, 00F67350, 10, 0, (null), 3, 3, 00000000, 0x00000000
+0140:fixme:wbemprox:client_security_Release 62EA4790
+023c:fixme:wpc:WindowsParentalControls_GetUserSettings ((null) 1D4AFC0C)
+0104:fixme:shcore:SetCurrentProcessExplicitAppUserModelID L"BlizzardEntertainment.Battlenet.beta": stub
+0104:fixme:shell:CustomDestinationList_SetAppID 11F6DD30 (L"BlizzardEntertainment.Battlenet.beta"): stub
+0104:fixme:shell:CustomDestinationList_BeginList 11F6DD30 (0070E4CC {92ca9dcd-5622-4bba-a805-5e9f541bd8c9} 0070E4D0): stub
+0104:fixme:msg:ChangeWindowMessageFilterEx 0001009C c04e 1 00000000
+0238:fixme:cryptasn:CRYPT_GetBuiltinDecoder Unsupported decoder for lpszStructType 1.3.6.1.4.1.311.2.1.4
+0238:fixme:cryptasn:CRYPT_GetBuiltinDecoder Unsupported decoder for lpszStructType 1.3.6.1.4.1.311.2.1.4
+01d0:fixme:netapi32:NetGetJoinInformation Semi-stub (null) 16F3FB7C 16F3FB78
+0248:fixme:secur32:get_cipher_algid unknown algorithm 23
+0248:fixme:secur32:get_mac_algid unknown algorithm 200, cipher 23
+0238:err:kerberos:kerberos_LsaApInitializePackage no Kerberos support, expect problems
+0238:fixme:heap:RtlSetHeapInformation unimplemented HeapEnableTerminationOnCorruption
+0238:fixme:process:GetProcessMitigationPolicy (FFFFFFFF, 4, 0070F27C, 4): stub
+0238:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+0284:fixme:thread:QueryThreadCycleTime (00000168,0A5FFE00): stub!
+0104:fixme:system:EnableNonClientDpiScaling (000100C8): stub
+0104:fixme:shell:SHGetPropertyStoreForWindow (000100C8 1125ADBC 0070AE70) stub!
+0104:fixme:shell:window_prop_store_SetValue 12773530, {{9f4c2855-9f79-4b39-a8d0-e1d42de1d5f3},4}, 0070AE60
+0104:fixme:shell:window_prop_store_SetValue 12773530, {{9f4c2855-9f79-4b39-a8d0-e1d42de1d5f3},2}, 0070AE50
+0104:fixme:shell:window_prop_store_SetValue 12773530, {{9f4c2855-9f79-4b39-a8d0-e1d42de1d5f3},3}, 0070AE40
+0104:fixme:shell:window_prop_store_SetValue 12773530, {{9f4c2855-9f79-4b39-a8d0-e1d42de1d5f3},5}, 0070AE30
+0104:fixme:shell:window_prop_store_Commit 12773530
+0104:fixme:dwmapi:DwmExtendFrameIntoClientArea (000100C8, 0070B4C4) stub
+0104:fixme:shell:SHGetPropertyStoreForWindow (000100D2 1125ADBC 0070ABC0) stub!
+0104:fixme:shell:window_prop_store_SetValue 12773670, {{9f4c2855-9f79-4b39-a8d0-e1d42de1d5f3},4}, 0070ABB0
+0104:fixme:shell:window_prop_store_SetValue 12773670, {{9f4c2855-9f79-4b39-a8d0-e1d42de1d5f3},2}, 0070ABA0
+0104:fixme:shell:window_prop_store_SetValue 12773670, {{9f4c2855-9f79-4b39-a8d0-e1d42de1d5f3},3}, 0070AB90
+0104:fixme:shell:window_prop_store_SetValue 12773670, {{9f4c2855-9f79-4b39-a8d0-e1d42de1d5f3},5}, 0070AB80
+0104:fixme:shell:window_prop_store_Commit 12773670
+0104:fixme:dwmapi:DwmExtendFrameIntoClientArea (000100C8, 0070B594) stub
+0104:fixme:win:GetPointerDevices (0070AE4C 00000000): partial stub
+0104:fixme:system:GetDisplayConfigBufferSizes (0x2 0070AE4C 0070AE48): semi-stub
+0104:fixme:system:DisplayConfigGetDeviceInfo Unimplemented packet type: 11
+0238:fixme:dcomp:DCompositionCreateDevice2 08320030, {5f4633fe-1e08-4cb8-8c75-ce24333f5602}, 0070EDC0.
+0104:fixme:win:FlashWindowEx 007096EC - semi-stub
+0230:fixme:sync:NtSetInformationJobObject stub: 0x5f4 4 0x1cd5f91c 4
+02f8:fixme:cryptasn:CRYPT_GetBuiltinDecoder Unsupported decoder for lpszStructType 1.3.6.1.4.1.311.2.1.4
+02f8:fixme:cryptasn:CRYPT_GetBuiltinDecoder Unsupported decoder for lpszStructType 1.3.6.1.4.1.311.2.1.4
+02f8:err:kerberos:kerberos_LsaApInitializePackage no Kerberos support, expect problems
+02f8:fixme:heap:RtlSetHeapInformation unimplemented HeapEnableTerminationOnCorruption
+02f8:fixme:process:GetProcessMitigationPolicy (FFFFFFFF, 4, 0070F27C, 4): stub
+0318:fixme:winsock:WSALookupServiceBeginW (0B41F2F4 0x00000ff0 0B41F330) Stub!
+0318:fixme:iphlpapi:NotifyAddrChange (Handle 0B41F470, overlapped 086A5BE8): stub
+0318:fixme:wlanapi:WlanEnumInterfaces (00000001, 00000000, 0B41EFDC) semi-stub
+0104:fixme:shell:CustomDestinationList_SetAppID 2243E0F0 (L"BlizzardEntertainment.Battlenet.beta"): stub
+0104:fixme:shell:CustomDestinationList_BeginList 2243E0F0 (0070C320 {92ca9dcd-5622-4bba-a805-5e9f541bd8c9} 0070C324): stub
+0104:fixme:shell:CustomDestinationList_SetAppID 22438270 (L"BlizzardEntertainment.Battlenet.beta"): stub
+0104:fixme:shell:CustomDestinationList_BeginList 22438270 (0070BA18 {92ca9dcd-5622-4bba-a805-5e9f541bd8c9} 0070BA1C): stub
+0104:fixme:dwmapi:DwmExtendFrameIntoClientArea (000100E2, 0070A8B0) stub
+01f4:fixme:wtsapi:WTSRegisterSessionNotification Stub 00010088 0x00000000
+0104:fixme:win:GetPointerDevices (0070ABEC 00000000): partial stub
+0104:fixme:system:GetDisplayConfigBufferSizes (0x2 0070ABEC 0070ABE8): semi-stub
+0104:fixme:system:DisplayConfigGetDeviceInfo Unimplemented packet type: 11
+0318:fixme:wlanapi:WlanEnumInterfaces (00000001, 00000000, 0B41EFDC) semi-stub
+0104:fixme:dwmapi:DwmExtendFrameIntoClientArea (000100E2, 0070AF80) stub
+0104:fixme:manipulation:viewport_ActivateConfiguration 1220FE30, 823
+0104:fixme:manipulation:viewport_SetViewportOptions 1220FE30, 2
+0104:fixme:manipulation:viewport_AddEventHandler 1220FE30, 000200E8, 1D23F540, 1D23A0C4
+0104:fixme:manipulation:viewport_Stop 1220FE30
+0104:fixme:manipulation:viewport_RemoveEventHandler 1220FE30, 0
+0104:fixme:manipulation:viewport_Abandon 1220FE30
+0104:fixme:manipulation:direct_manip_Deactivate 1220E0B0, 000200E8
+0104:fixme:manipulation:viewport_ActivateConfiguration 1220FE30, 823
+0104:fixme:manipulation:viewport_SetViewportOptions 1220FE30, 2
+0104:fixme:manipulation:viewport_AddEventHandler 1220FE30, 000200E8, 1D23F2A8, 1D2416EC
+0104:fixme:manipulation:viewport_Stop 1220FE30
+0104:fixme:manipulation:viewport_RemoveEventHandler 1220FE30, 488904456
+0104:fixme:manipulation:viewport_Abandon 1220FE30
+0104:fixme:manipulation:direct_manip_Deactivate 1220E0B0, 000200E8
+0104:fixme:manipulation:viewport_ActivateConfiguration 1220FE30, 823
+0104:fixme:manipulation:viewport_SetViewportOptions 1220FE30, 2
+0104:fixme:manipulation:viewport_AddEventHandler 1220FE30, 000200E8, 1D23F2A8, 1D2416EC
+0104:fixme:manipulation:viewport_Stop 1220FE30
+0104:fixme:manipulation:viewport_RemoveEventHandler 1220FE30, 488904456
+0104:fixme:manipulation:viewport_Abandon 1220FE30
+0104:fixme:manipulation:direct_manip_Deactivate 1220E0B0, 000200E8
+0104:fixme:manipulation:viewport_ActivateConfiguration 1220FE30, 823
+0104:fixme:manipulation:viewport_SetViewportOptions 1220FE30, 2
+0104:fixme:manipulation:viewport_AddEventHandler 1220FE30, 000200E8, 1D256340, 1D21D5D4
+0104:fixme:manipulation:viewport_Stop 1220FE30
+0104:fixme:manipulation:viewport_RemoveEventHandler 1220FE30, 488748376
+0104:fixme:manipulation:viewport_Abandon 1220FE30
+0104:fixme:manipulation:direct_manip_Deactivate 1220E0B0, 000200E8
+0238:err:vulkan:X11DRV_vkCreateWin32SurfaceKHR Failed to allocate client window for hwnd=0x100e2
+032c:fixme:file:NtLockFile I/O completion on lock not implemented yet
+034c:fixme:cryptasn:CRYPT_GetBuiltinDecoder Unsupported decoder for lpszStructType 1.3.6.1.4.1.311.2.1.4
+034c:fixme:cryptasn:CRYPT_GetBuiltinDecoder Unsupported decoder for lpszStructType 1.3.6.1.4.1.311.2.1.4
+02ec:fixme:dwmapi:DwmGetCompositionTimingInfo (00000000 13BCF598)
+034c:err:kerberos:kerberos_LsaApInitializePackage no Kerberos support, expect problems
+034c:fixme:heap:RtlSetHeapInformation unimplemented HeapEnableTerminationOnCorruption
+034c:fixme:process:GetProcessMitigationPolicy (FFFFFFFF, 4, 0070F27C, 4): stub
+034c:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+034c:fixme:thread:QueryThreadCycleTime (FFFFFFFE,0070EE00): stub!
+0208:fixme:file:ReplaceFileW Ignoring flags 2
+0208:fixme:process:GetProcessMitigationPolicy (FFFFFFFF, 4, 19A5F660, 4): stub
+0210:fixme:file:ReplaceFileW Ignoring flags 2
+034c:fixme:dwrite:dwritefontface5_HasVariations 00C13130: stub
+0154:fixme:winsock:WSAIoctl unimplemented ioctl SIO_IDEAL_SEND_BACKLOG_QUERY
+0154:fixme:winsock:server_ioctl_sock Unsupported ioctl 120348 (device=12 access=0 func=d2 method=0)
+0208:fixme:file:ReplaceFileW Ignoring flags 2
+03d4:err:kerberos:kerberos_LsaApInitializePackage no Kerberos support, expect problems
+03d4:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+03e4:fixme:kernelbase:AppPolicyGetThreadInitializationType FFFFFFFFFFFFFFFA, 0000000004A4FE10
+03d4:fixme:exec:SHELL_execute flags ignored: 0x00000100
+03f4:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+03f4:fixme:wbemprox:wbem_services_CreateInstanceEnum unsupported flags 0x00000030
+03f4:fixme:wbemprox:enum_class_object_Next timeout not supported
+03f4:fixme:ddraw:ddraw7_Initialize Ignoring guid {dd51a969-abeb-df02-aed0-d7a7dca4514b}.
+03f4:err:winediag:MIDIMAP_drvOpen No software synthesizer midi port found, Midi sound output probably won't work.
+033c:fixme:file:ReplaceFileW Ignoring flags 2
+0104:fixme:win:GetPointerDevices (0070C6FC 00000000): partial stub
+0104:fixme:system:GetDisplayConfigBufferSizes (0x2 0070C6FC 0070C6F8): semi-stub
+0104:fixme:system:DisplayConfigGetDeviceInfo Unimplemented packet type: 11
+0450:err:kerberos:kerberos_LsaApInitializePackage no Kerberos support, expect problems
+0450:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+0104:fixme:win:GetPointerDevices (0070C49C 00000000): partial stub
+0104:fixme:system:GetDisplayConfigBufferSizes (0x2 0070C49C 0070C498): semi-stub
+0104:fixme:system:DisplayConfigGetDeviceInfo Unimplemented packet type: 11
+0460:fixme:kernelbase:AppPolicyGetThreadInitializationType FFFFFFFFFFFFFFFA, 000000000104FE10
+0450:fixme:kernelbase:AppPolicyGetProcessTerminationMethod FFFFFFFFFFFFFFFA, 000000000011FD70
+0208:fixme:file:ReplaceFileW Ignoring flags 2
+0104:fixme:dwmapi:DwmExtendFrameIntoClientArea (000100E2, 0070BBF0) stub
+0104:fixme:dwmapi:DwmExtendFrameIntoClientArea (000100E2, 0070BB20) stub
+02e8:err:esync:__esync_wait_objects Polling on fd 232 returned 0x20.
+01f0:err:esync:__esync_wait_objects Polling on fd 259 returned 0x20.
+0268:fixme:userenv:UnregisterGPNotification 000003C8
+0268:fixme:userenv:UnregisterGPNotification 000003CC
+0320:err:esync:__esync_wait_objects Polling on fd 202 returned 0x20.
+0320:err:esync:__esync_wait_objects Polling on fd 182 returned 0x20.
+0320:err:esync:__esync_wait_objects Polling on fd 192 returned 0x20.
+0318:fixme:iphlpapi:CancelIPChangeNotify (overlapped 086A5BE8): stub
+02e8:err:esync:__esync_wait_objects Polling on fd 230 returned 0x20.
+033c:fixme:file:ReplaceFileW Ignoring flags 2
+02f8:fixme:kernelbase:AppPolicyGetProcessTerminationMethod FFFFFFFA, 0070FEAC
+0104:fixme:wtsapi:WTSUnRegisterSessionNotification Stub 00010086
+0104:fixme:iphlpapi:CancelIPChangeNotify (overlapped 09DF5A98): stub
+0104:fixme:wtsapi:WTSUnRegisterSessionNotification Stub 00010088
+0104:fixme:font:NtGdiRemoveFontMemResourceEx (0x718bc1b1) stub
+0104:fixme:font:NtGdiRemoveFontMemResourceEx (0x7194f5c1) stub
+0104:fixme:font:NtGdiRemoveFontMemResourceEx (0x71965e11) stub
+0104:fixme:font:NtGdiRemoveFontMemResourceEx (0x7191c011) stub
+0104:fixme:font:NtGdiRemoveFontMemResourceEx (0x71836331) stub
+0104:fixme:font:NtGdiRemoveFontMemResourceEx (0x71bbb331) stub
+0104:fixme:font:NtGdiRemoveFontMemResourceEx (0x71b2b331) stub
+0104:fixme:font:NtGdiRemoveFontMemResourceEx (0x719e3611) stub
+0104:fixme:font:NtGdiRemoveFontMemResourceEx (0x71a2b331) stub
+02c8:err:virtual:virtual_setup_exception stack overflow 772 bytes in thread 02c8 addr 0x7bc566bd stack 0xfb70cfc (0xfb70000-0xfb71000-0xfc70000)
+0104:fixme:kernelbase:AppPolicyGetProcessTerminationMethod FFFFFFFA, 0070FEAC
+0154:fixme:winsock:WSAIoctl unimplemented ioctl SIO_IDEAL_SEND_BACKLOG_QUERY
+0154:fixme:winsock:server_ioctl_sock Unsupported ioctl 120348 (device=12 access=0 func=d2 method=0)
+0140:fixme:kernelbase:AppPolicyGetProcessTerminationMethod FFFFFFFA, 00BEFEAC
+Monitored process exited.
+All monitored processes have exited.
+Exit with returncode 0
